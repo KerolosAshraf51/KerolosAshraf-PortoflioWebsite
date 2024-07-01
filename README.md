@@ -20,7 +20,11 @@ Technologies Used
 
 
 HTML: For structuring the content of the web pages.
+
 CSS: For styling the web pages, including responsiveness and dark mode support.
+
 JavaScript: For interactive features like the dark mode toggle.
+
 Font Awesome: For icons used in social media links and other sections.
+
 Google Fonts: For custom font styling.
